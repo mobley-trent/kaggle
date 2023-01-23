@@ -12,6 +12,9 @@ A dashboard for the Kaggle 2022 survey. I use visualization libraries
 to understand the trends, challenges and tools used by data scientists
 and machine learning practitioners.
 
+3.Tesla Stock Price Analysis and Prediction with Deep Learning:
+In this notebook, we will first perform EDA on the Tesla stock prices dataset to understand the trends and patterns in the data. Next, we will use a LSTM deep learning model to predict future stock prices.
+
 ## Contributing
 If you find any errors or have suggestions for improvements, please feel
 free to open an issue or create a pull request.
