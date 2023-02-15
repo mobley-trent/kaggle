@@ -18,6 +18,9 @@ In this notebook, we will first perform EDA on the Tesla stock prices dataset to
 4. Customer Segmentation:
 A comprehensive analysis of customer data in a mall with K-means clustering.
 
+5. IMDB Sentiment Analysis:
+Contextual Mining on text from IMDB movie reviews.
+
 ## Contributing
 If you find any errors or have suggestions for improvements, please feel
 free to open an issue or create a pull request.
