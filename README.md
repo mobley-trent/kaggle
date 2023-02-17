@@ -1,5 +1,7 @@
 # Kaggle Projects
 This repository contains my personal projects on Kaggle. 
+Other projects in which I did not source my data from Kaggle are 
+also included.
 Each project is represented in the Jupyter notebook.
 
 ## List of Projects:
@@ -20,6 +22,10 @@ A comprehensive analysis of customer data in a mall with K-means clustering.
 
 5. IMDB Sentiment Analysis:
 Contextual Mining on text from IMDB movie reviews.
+
+6. Digit Recognition with Keras:
+Building a deep learning model for image recognition of handwritten digits using Keras and the MNIST dataset
+
 
 ## Contributing
 If you find any errors or have suggestions for improvements, please feel
