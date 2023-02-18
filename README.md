@@ -24,7 +24,10 @@ A comprehensive analysis of customer data in a mall with K-means clustering.
 Contextual Mining on text from IMDB movie reviews.
 
 6. Digit Recognition with Keras:
-Building a deep learning model for image recognition of handwritten digits using Keras and the MNIST dataset
+Building a deep learning model for image recognition of handwritten digits using Keras and the MNIST dataset.
+
+7. Language Translation:
+Creating a web app for language translation using the Gradio library and pre-trained translation models from the Transformers library. 
 
 
 ## Contributing
