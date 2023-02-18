@@ -1,7 +1,6 @@
 # Kaggle Projects
 This repository contains my personal projects on Kaggle. 
-Other projects in which I did not source my data from Kaggle are 
-also included.
+Other general purpose Python projects are also included.
 Each project is represented in the Jupyter notebook.
 
 ## List of Projects:
