@@ -28,6 +28,8 @@ Building a deep learning model for image recognition of handwritten digits using
 7. Language Translation:
 Creating a web app for language translation using the Gradio library and pre-trained translation models from the Transformers library. 
 
+8. FPL Team Builder:
+Selecting the best team to place in your fantasy sports team using the `requests` library and performing data augmentation
 
 ## Contributing
 If you find any errors or have suggestions for improvements, please feel
