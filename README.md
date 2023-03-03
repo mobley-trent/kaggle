@@ -29,7 +29,27 @@ Building a deep learning model for image recognition of handwritten digits using
 Creating a web app for language translation using the Gradio library and pre-trained translation models from the Transformers library. 
 
 8. FPL Team Builder:
-Selecting the best team to place in your fantasy sports team using the `requests` library and performing data augmentation
+Selecting the best team to place in your fantasy sports team using the `requests` library and performing data augmentation.
+
+9. Sales Prediction:
+Making use of statistical models and machine learning to predict sales of various products at a chain of stores.
+
+## Kaggle API 
+To access the data remotely, I made use of the Kaggle API which pulls the data directly into Google Colab. You will need to have an account on Kaggle to use the API if you wish to do the same.
+If you do, run this code in Colab to upload your Kaggle API key:
+
+```
+from google.colab import files
+files.upload() # upload kaggle.json
+
+!pip install -q kaggle
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+!ls ~/.kaggle
+!chmod 600 /root/.kaggle/kaggle.json
+
+!kaggle kernels list — user YOUR_USER — sort-by dateRun
+```
 
 ## Contributing
 If you find any errors or have suggestions for improvements, please feel
