@@ -34,6 +34,12 @@ Selecting the best team to place in your fantasy sports team using the `requests
 9. Sales Prediction:
 Making use of statistical models and machine learning to predict sales of various products at a chain of stores.
 
+10. Twitter Data Mining:
+Performing contextual mining and topic modelling on my Twitter data.
+
+11. Recommendation Engine:
+Building a recommendation engine using Demographic Filtering, Content Based Filtering and Collaborative Filtering.
+
 ## Kaggle API 
 To access the data remotely, I made use of the Kaggle API which pulls the data directly into Google Colab. You will need to have an account on Kaggle to use the API if you wish to do the same.
 If you do, run this code in Colab to upload your Kaggle API key:
