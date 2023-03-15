@@ -40,6 +40,9 @@ Performing contextual mining and topic modelling on my Twitter data.
 11. Recommendation Engine:
 Building a recommendation engine using Demographic Filtering, Content Based Filtering and Collaborative Filtering.
 
+12. Object Detection with Pytorch:
+We perform detection of three different fruits in images using a pretrained Faster R-CNN model with Pytorch.
+
 ## Kaggle API 
 To access the data remotely, I made use of the Kaggle API which pulls the data directly into Google Colab. You will need to have an account on Kaggle to use the API if you wish to do the same.
 If you do, run this code in Colab to upload your Kaggle API key:
